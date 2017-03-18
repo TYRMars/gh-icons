@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>youdao_note_r</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="rounded-icons" sketch:type="MSLayerGroup" transform="translate(-400.000000, -200.000000)" fill="#49C1FB">
+            <g id="row-3-rounded-icons" transform="translate(0.000000, 200.000000)" sketch:type="MSShapeGroup">
+                <path d="M441.500047,0 L418.500012,0 C411.980746,0 407.847634,0.025253709 403.940926,3.9316685 C400.024726,7.84780978 400,12.0007266 400,18.5000117 L400,41.5000469 C400,48.0196053 400.025605,52.1530691 403.931669,56.0591324 C407.849861,59.9772658 412.00102,60 418.500012,60 L441.500047,60 C448.019605,60 452.151839,59.9756252 456.059132,56.0683315 C459.974571,52.1528347 460,47.9989805 460,41.4999883 L460,18.5000117 C460,11.9806877 459.974922,7.84745822 456.068331,3.94092624 C452.150491,0.0229685706 447.999039,0 441.500047,0 Z M436.599287,5.66280908 L454.762428,24.2781937 L433.041559,47.7824672 L410.384444,49.6628091 L412.624372,27.4754619 L436.599287,5.66280908 Z" id="youdao_note_r"></path>
+            </g>
+        </g>
+    </g>
+</svg>

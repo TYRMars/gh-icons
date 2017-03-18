@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>pocket_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-1475.000000, -726.000000)" fill="#2F4074">
+            <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(1175.000000, 225.000000)">
+                <g id="row-6-full-icons" transform="translate(0.000000, 501.000000)" sketch:type="MSShapeGroup">
+                    <path d="M325,50 C338.807119,50 350,38.8071194 350,25 C350,11.1928806 338.807119,0 325,0 C311.192881,0 300,11.1928806 300,25 C300,38.8071194 311.192881,50 325,50 Z M312.991244,14 C311.89151,14 311,14.9030523 311,16.0082708 C311,16.0082708 311,23.5789614 311,26.4698801 C311,29.3607988 314.038757,38.9397617 325,38.9397602 C335.961243,38.9397583 339,29.0619526 339,26.4698801 C339,23.8778076 339,15.9992387 339,15.9992387 C339,14.8950897 338.100102,14 337.008756,14 L312.991244,14 Z M325,26.5784225 L319.828527,21.432824 C319.048476,20.6566757 317.733435,20.5963872 316.878073,21.3091887 C316.028633,22.0170551 315.968123,23.2374173 316.738843,24.0209404 C316.738843,24.0209404 323.608825,31.1925618 325,31.1925619 C326.391176,31.1925619 333.206227,24.0209404 333.206227,24.0209404 C333.972723,23.2311477 333.932599,21.9834015 333.116722,21.2341269 L333.28019,21.3842504 C332.464262,20.6349285 331.162828,20.6437796 330.360118,21.4167689 L325,26.5784225 Z" id="pocket_F"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

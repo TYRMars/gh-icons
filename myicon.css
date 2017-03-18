@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+/*MyLogo.css version1.0 2017/3/17*/
+/* 主要是针对国外很少有专门为中国设置的icon */
+/*科技干货 JonathanZhang 编写*/
+/*myicon*/
+.img{
+    display:inline-block;
+    height: 50px;
+    width: 50px;
+    background-position: center center;
+}
+
+/*full_icons*/
+
+/*新浪微博*/
+.myicon_sina_weibo_f{
+background: url(svg_icons/full_icons/sina_weibo_f.svg);
+}
+/*腾讯微博*/
+.myicon_tencent_weibo_f{
+background: url(svg_icons/full_icons/tencent_weibo_f.svg);
+}
+/*微信*/
+.myicon_wechat_f{
+background: url(svg_icons/full_icons/wechat_f.svg);
+}
+/*微信朋友圈*/
+.myicon_wechat_moment_f{
+background: url(svg_icons/full_icons/wechat_moment_f.svg);
+}
+/*优酷*/
+.myicon_youku_f{
+background: url(svg_icons/full_icons/youku_f.svg);
+}
+/*知乎*/
+.myicon_zhihu_f{
+background: url(svg_icons/full_icons/zhihu_f.svg);
+}
+/*支付宝*/
+.myicon_alipay_f{
+background: url(svg_icons/full_icons/alipay_f.svg);
+}
+/*有道云笔记*/
+.myicon_youdao_note_f{
+background: url(svg_icons/full_icons/alipay_f.svg);
+}
+/*淘宝*/
+.myicon_taobao_f{
+background: url(svg_icons/full_icons/alipay_f.svg);
+}
+/*QQ*/
+.myicon_qq_f{
+background: url(svg_icons/full_icons/qq_f.svg);
+}
+/*Qzone*/
+.myicon_qzone_f{
+background: url(svg_icons/full_icons/qzone_f.svg);
+}
+/*人人*/
+.myicon_renren_f{
+background: url(svg_icons/full_icons/renren_f.svg);
+}
+/*大众点评*/
+.myicon_dianping_f{
+background: url(svg_icons/full_icons/dianping_f.svg);
+}
+/*豆瓣*/
+.myicon_douban_f{
+background: url(svg_icons/full_icons/douban_f.svg);
+}
