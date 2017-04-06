@@ -1,4 +1,6 @@
 # Myicons
+## MyLogo.css version1.0.2 2017/4/6
+####支持彩色版本
 ## MyLogo.css version1.0.2 2017/3/22
 ####标识的浅色版本
 ## MyLogo.css version1.0.1 2017/3/17
