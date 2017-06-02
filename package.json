@@ -1,0 +1,24 @@
+{
+  "name": "gh-icons",
+  "version": "2.0.1",
+  "description": "收集中国常用的icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JonathanZhang",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.1",
+    "svg-inline-loader": "^0.7.1"
+  }
+}
