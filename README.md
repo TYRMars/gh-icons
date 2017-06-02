@@ -20,7 +20,7 @@
 |图标名称|深色版本|浅色版本|彩色版本|
 |---|---|---|---|
 |新浪微博|myicon_sina_weibo_f|myicon_sina_weibo_l|myicon_sina_weibo_c|
-|腾讯微博|
+|腾讯微博|myicon_tencent_weibo_f|myicon_tencent_weibo_l|myicon_tencent_weibo_c|
 |微信|
 |微信朋友圈|
 |优酷|
@@ -37,4 +37,4 @@
 * 直接通过引用`gh-icons.js`就可以使用
 * 使用过程中采用`class=""`，图标列表可以看到相关的样式
 * 本图标为矢量图标，`.css`为背景引入，所以标签要设置`width="" height=""`
-* 整体图标演示在`demo.html`中
+* 整体图标演示在`src/demo.html`中
