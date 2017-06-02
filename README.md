@@ -21,17 +21,18 @@
 |---|---|---|---|
 |新浪微博|myicon_sina_weibo_f|myicon_sina_weibo_l|myicon_sina_weibo_c|
 |腾讯微博|myicon_tencent_weibo_f|myicon_tencent_weibo_l|myicon_tencent_weibo_c|
-|微信|
-|微信朋友圈|
-|优酷|
-|支付宝|
-|有道云笔记|
-|淘宝|
-|QQ|
-|Qzone|
-|人人|
-|大众点评|
-|豆瓣|
+|微信|myicon_wechat_f|myicon_wechat_l|myicon_wechat_c|
+|微信朋友圈|myicon_wechat_moment_f|myicon_wechat_moment_l|myicon_wechat_moment_c|
+|优酷|myicon_youku_f|myicon_youku_l|myicon_youku_c|
+|知乎|myicon_zhihu_f|myicon_zhihu_l|myicon_zhihu_c|
+|支付宝|myicon_alipay_f|myicon_alipay_l|myicon_alipay_c|
+|有道云笔记|myicon_youdao_note_f|myicon_youdao_note_l|myicon_youdao_note_c|
+|淘宝|myicon_taobao_f|myicon_taobao_l|myicon_taobao_c
+|QQ|myicon_qq_f|myicon_qq_l|myicon_qq_c|
+|Qzone|myicon_qzone_f|myicon_qzone_l|myicon_qzone_c|
+|人人|myicon_renren_f|myicon_renren_l|myicon_renren_c|
+|大众点评|myicon_dianping_f|myicon_dianping_l|myicon_dianping_c|
+|豆瓣|myicon_douban_f|myicon_douban_l|myicon_douban_c|
 ## 使用说明
 * --version2.0
 * 直接通过引用`gh-icons.js`就可以使用
